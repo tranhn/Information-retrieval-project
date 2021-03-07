@@ -1,2 +1,2 @@
 # Information-retrieval-project
-Image retrieval
+Content-based image retrieval system
